@@ -1,0 +1,26 @@
+{
+  "name": "test-type",
+  "version": "1.0.0",
+  "description": "\"# test-type\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "111"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidreband/test-type.git"
+  },
+  "keywords": [
+    "asd123asd"
+  ],
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidreband/test-type/issues"
+  },
+  "homepage": "https://github.com/davidreband/test-type#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "semver": "^5.5.0"
+  }
+}
